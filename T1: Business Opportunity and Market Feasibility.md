@@ -25,7 +25,7 @@ In this layout the user can edit documents, send professional emails, and send P
 it be a swappable design, that way people can change what they don't like about the design. Our form of selling will be through online retail.
 We chose this approach because we deemed it necessary to cut out middleman retailers to maintain our phone below $300.
 
--Our customer segment is lower to middle class people who have an interest in a phone, but don't feel a practical phone has to break their wallet.
+- Our customer segment is lower to middle class people who have an interest in a phone, but don't feel a practical phone has to break their wallet.
 Several examples include college students who are on a budget and can't afford the latest phone, but want a phone that isn't slow and can run most apps.
 Another example includes business workers who are interns or just got recently hired that need a practical phone that is compatible with most business
 related apps, such as PowerPoint, Office 365, and Google Docs. After this initial segment, we hope to expand our brand later in the future so we can appeal
