@@ -6,7 +6,7 @@ Since we'll only operate through our online store, we won't be competing with ma
 
 -Team Leader: Mark Lopez (mark19905)
 
-Group Members: Johnathan Corona **(Toxic9271)**
+Group Members: Johnathan Corona **(ToxicEagle9271)**
 Piper Brown **(PiperKBrown)**
 Spencer Falter **(TBD)**
 
