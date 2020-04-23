@@ -31,4 +31,4 @@ Another example includes business workers who are interns or just got recently h
 related apps, such as PowerPoint, Office 365, and Google Docs. After this initial segment, we hope to expand our brand later in the future so we can appeal
 to more audiences. We believe that for now, targeting the lower to middle class is a sizeable range that will result in profits.
 
-
+## Logo
