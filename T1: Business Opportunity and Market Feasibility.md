@@ -6,9 +6,8 @@ Since we'll only operate through our online store, we won't be competing with ma
 
 -Team Leader: Mark Lopez (mark19905)
 
-Group Members: Johnathan Corona **(ToxicEagle9271)**
-Piper Brown **(PiperKBrown)**
-Spencer Falter **(TBD)**
+Group Members: Piper Brown **(PiperKBrown)**
+
 
 - A customer segment we would like to target is teenagers who are on a reduced budget when buying a new smartphone.
 Essentially, we're trying to keep their best interest in mind when developing a phone that is compatible with most software,
