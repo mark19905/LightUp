@@ -30,6 +30,3 @@ Several examples include college students who are on a budget and can't afford t
 Another example includes business workers who are interns or just got recently hired that need a practical phone that is compatible with most business
 related apps, such as PowerPoint, Office 365, and Google Docs. After this initial segment, we hope to expand our brand later in the future so we can appeal
 to more audiences. We believe that for now, targeting the lower to middle class is a sizeable range that will result in profits.
-
-## Logo
-![Light Up Logo](https://user-images.githubusercontent.com/44872341/80152886-1e5ee680-8582-11ea-910d-26f21182f34e.png)
