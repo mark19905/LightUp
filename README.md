@@ -13,7 +13,7 @@ https://piperbrown2.wixsite.com/websiteforoats
 <table>
   <tr>
     <td rowspan="2">
-      <b><a href="Key_Partners.md">Key Partners</a></b>
+      <b><a href="https://github.com/mark19905/LightUp/blob/master/T4:%20Key%20Partners%20%26%20Website%20Design.md">Key Partners</a></b>
       <p>Our key partners are many local businesses in the Omaha area that include a warehouse, a bank, marketing, and IT. <br>
       They will help us start as a local business hoping to expand to more U.S. states.<br>
       </p>
