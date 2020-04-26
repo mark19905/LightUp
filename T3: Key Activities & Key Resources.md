@@ -7,9 +7,7 @@ take care of the rest.
 
 * Key Resources
 
- _Product:_ our phones are physical products and must be transported to the consumer which can vary in location. The ideal method would
- be using mail carriers as they are reliable and depending on how much the consumer is willing to spend, the product can arrive faster to
- their location.
+ _Product:_ our phones are physical products and must be transported to the consumer which can vary in location. We'll be working with UPS to ship the phones directly to our customers. As for the parts and assembly, LightUp will offshore the phone production labor to another country and will rely on freight shipping to get the phones back to the US. 
  
  _Intellectual:_ Light Up will have a trademark for our brand, a logo, and privacy policies on our website about our company.
  
