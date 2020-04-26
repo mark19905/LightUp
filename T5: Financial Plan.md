@@ -92,9 +92,9 @@
 Our funds will start up from our kickstart fundraiser (any leftover funds will be used for the following years).
 Our production mainly relies on the amount of orders recieved per year so we don't overstock. Most of this is a rough estimate and could change overtime based on demand and production costs.
 
-<b> Formula: Retail Price - Cost of Phone = Profit & Percent </b>
+<b> Formula: Retail Price - Cost of Phone = Profit </b>
 
-Expected Revenue = $699 - $275.50 = $423.50 (60.6%)
+Expected Revenue = $300 - $188 = $112 *(Price estimate from what it costs to make an iPhone 4s).*
 
 
 <h1> Links with information: </h1>
