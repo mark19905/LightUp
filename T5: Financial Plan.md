@@ -90,7 +90,7 @@
 
 ## Overview
 Our funds will start up from our kickstart fundraiser (any leftover funds will be used for the following years).
-Our production mainly relies on the amount of orders recieved per year so we don't overstock. Most of this is a rough estimate and could change overtime based on demand and production costs.
+Our production mainly relies on the amount of orders recieved per year, so we don't overstock. Most of this is a rough estimate and could change overtime based on demand and production costs.
 
 <b> Formula: Retail Price - Cost of Phone = Profit </b>
 
